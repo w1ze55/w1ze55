@@ -10,7 +10,7 @@
   <img align="center" alt="img-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="img-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="img-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="img-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/416345280296779777/cfadff8981bdbdad830807cad71ba97f.png?size=2048">
+  <img align="right" alt="img-pic" height="150" style="border-radius: 50px;" src="https://cdn.discordapp.com/avatars/416345280296779777/cfadff8981bdbdad830807cad71ba97f.png?size=2048">
 </div>
   
   ##
