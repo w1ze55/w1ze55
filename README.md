@@ -1,5 +1,5 @@
 # Hey! My name is Caue, Welcome to my profile.
-# About me
+
 I am a programming enthusiast aiming to become a fullstack developer.
 
 I initially started with Cybersecurity and really enjoyed it, especially topics related to hacking. However, over time I discovered the development field, both backend and frontend.
@@ -9,7 +9,6 @@ What really caught my attention was seeing code written and running. When I was 
 As time went by, I became more interested and sought more knowledge through YouTube. I learned a lot there, but it wasn’t enough. I also took some free courses, but I still wanted more.
 
 Currently, I’m studying Systems Analysis and Development, and alongside my college, I’m also taking courses on Alura to improve my skills.
-
 
 #
 
@@ -22,7 +21,7 @@ Currently, I’m studying Systems Analysis and Development, and alongside my col
 
 #
     
-# Hard Skills
+# Skills
 
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
