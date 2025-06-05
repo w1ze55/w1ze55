@@ -4,7 +4,7 @@ I am a programming enthusiast aiming to become a fullstack developer.
 
 I initially started with Cybersecurity and really enjoyed it, especially topics related to hacking. However, over time I discovered the development field, both backend and frontend.
 
-What really caught my attention was seeing code written and running. When I was in school, I used to go to the computer lab, open the "DevTools," and play around by changing the code on the screen. I would tell my friends that I was a "hacker" and all that, but without realizing it, I was actually coding in HTML, CSS, and JavaScript.
+What really caught my attention was seeing code written and running. When I was in school, I used to go to the computer lab, open the "DevTools," and play around by changing the code on the screen. I would tell my friends that I was a "hacker" and all that, but without realizing it, I was actually coding in React.
 
 As time went by, I became more interested and sought more knowledge through YouTube. I learned a lot there, but it wasn’t enough. I also took some free courses, but I still wanted more.
 
