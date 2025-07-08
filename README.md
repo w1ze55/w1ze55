@@ -26,6 +26,7 @@ Currently, I’m studying Systems Analysis and Development, and alongside my col
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=white&logoSize=auto&labelColor=blue&color=%233396ff&cacheSeconds=php)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -37,6 +38,7 @@ Currently, I’m studying Systems Analysis and Development, and alongside my col
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Git](https://img.shields.io/badge/-%20%20%20GIT-black?style=for-the-badge&logo=git)
-![Static Badge](https://img.shields.io/badge/WordPress-%23548aff?style=for-the-badge&logo=wordpress)
-![Static Badge](https://img.shields.io/badge/WooCommerce-%234c0059?style=for-the-badge&logo=woocommerce&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/trello-%23757575?style=for-the-badge&logo=trello&logoSize=auto)
+![Wordpress](https://img.shields.io/badge/WordPress-%23548aff?style=for-the-badge&logo=wordpress)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-%234c0059?style=for-the-badge&logo=woocommerce&logoSize=auto)
+![Trello](https://img.shields.io/badge/trello-%23757575?style=for-the-badge&logo=trello&logoSize=auto)
+
