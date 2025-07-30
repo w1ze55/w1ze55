@@ -40,5 +40,4 @@ Currently, I’m studying Systems Analysis and Development, and alongside my col
 ![Git](https://img.shields.io/badge/-%20%20%20GIT-black?style=for-the-badge&logo=git)
 ![Wordpress](https://img.shields.io/badge/WordPress-%23548aff?style=for-the-badge&logo=wordpress)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-%234c0059?style=for-the-badge&logo=woocommerce&logoSize=auto)
-![Trello](https://img.shields.io/badge/trello-%23757575?style=for-the-badge&logo=trello&logoSize=auto)
-
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
