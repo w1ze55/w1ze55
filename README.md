@@ -1,6 +1,6 @@
 # Hey! My name is Caue, Welcome to my profile.
 
-I am a programming enthusiast aiming to become a fullstack developer.
+I'm a Junior Fullstack Developer.
 
 I initially started with Cybersecurity and really enjoyed it, especially topics related to hacking. However, over time I discovered the development field, both backend and frontend.
 
